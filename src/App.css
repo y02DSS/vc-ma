@@ -1,0 +1,9 @@
+@media screen and (min-width: 1000px) {
+  .we-are{
+    display: flex;
+  }
+
+  .user-card{
+    padding: 0 5px;
+  }
+}
